@@ -8,3 +8,5 @@ Don't forget to add your auth token to config.json file
     "OAUTH_CLIENT_SECRET":""
   }
 ```
+
+Then you can run the script.sh
