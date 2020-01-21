@@ -1,0 +1,12 @@
+{
+  "development": {
+    "PORT": 3002,
+    "OAUTH_CLIENT_ID": "",
+    "OAUTH_CLIENT_SECRET":""
+  },
+  "production": {
+    "PORT": 3000,
+    "OAUTH_CLIENT_ID": "",
+    "OAUTH_CLIENT_SECRET":""
+  }
+}
